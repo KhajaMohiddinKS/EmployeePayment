@@ -15,6 +15,8 @@ public class Payment {
 		//get and print the weekly payment
 		System.out.println(obj.getPayment(55));
 		
+		System.out.println("Running");
+		
 	}
 
 }
